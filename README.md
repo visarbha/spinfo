@@ -21,8 +21,8 @@ GET HELP
 GET PORT INFO FOR A SERVICE(S)
 ==============================
 Multiple service names with space delimited can be passed.
-If a service name is prefixed with '~' sign, then the script does a "lazy" search. 
-If a service name is not prefixed with '~' sign, then the script does a "specific" search.
+If a service name is prefixed with 'tilde' sign, then the script does a "lazy" search. 
+If a service name is not prefixed with 'tilde' sign, then the script does a "specific" search.
 
     $ spinfo.py -S ssh
     
