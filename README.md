@@ -1,7 +1,7 @@
 # spinfo
 Service Port Information
 
-This script written in Python3 can be executed in Linux shells. It is used for fetching "network service name" 
+This script written in Python3, can be executed in Linux shells. It is used for fetching "network service name" 
 and its corresponding "port" information. "/etc/services" file is used as source data for this script:
 
 Below are a few examples on how this script can be used:
